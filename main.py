@@ -1,0 +1,2 @@
+nama = ("aden")
+print(nama)
